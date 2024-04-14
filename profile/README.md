@@ -1,6 +1,6 @@
 # Welcome to StadPrin - GitHub Organisation
 
-This is a representative track record of completed work under the organisational name `StadPrin`. Repositories are maintained and established by [Branden v Staden]("https://github.com/brandenvs") and [Dylan Prinsloo]("https://github.com/DylanPrinsloo"). 
+This is a representative track record of completed work under the organisational name `StadPrin`. Repositories are maintained and established by [Branden v Staden](https://github.com/brandenvs) and [Dylan Prinsloo](https://github.com/DylanPrinsloo). 
 
 ### Mission Statement
 
