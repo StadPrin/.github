@@ -4,7 +4,7 @@ This is a representative track record of completed work under the organisational
 
 ### Mission Statement
 
-The company aims to meet clients' ICT, Data, and Cybersecurity needs by integrating existing infrastructure and solutions or developing new ones.
+The goal is make a better world for all who live in it, through emerging technology that STADPRIN will introduce in the coming decade and the press to innovate in such difficult times. It is important to remember where we are, the goal we see and the road that will challenge us.
 
 ### Privacy Statement
 
