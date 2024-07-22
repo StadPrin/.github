@@ -1,4 +1,4 @@
-## Mission Statement 2024/07/22
+# Mission Statement 2024/07/22
 
 STADPRIN has come a long way, our goals and general interests have always been to build
 software in the hope of bettering the human race in any sort of way. The growth and development
@@ -15,7 +15,7 @@ The Target Audience of STADPRIN is small to large enterprise businesses. We have
 solutions that cater to these businesses. We develop and research new technology to bring to
 the market. These projects will encompass a new era for STADPRIN.
 
- Core Values:
+## Core Values:
 
 > Discovery, progress and research for the better of all in STADPRIN
 >
