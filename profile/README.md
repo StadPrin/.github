@@ -15,10 +15,10 @@ The Target Audience of STADPRIN is small to large enterprise businesses. We have
 solutions that cater to these businesses. We develop and research new technology to bring to
 the market. These projects will encompass a new era for STADPRIN.
 
-> Core Values:
+ Core Values:
 
 > Discovery, progress and research for the better of all in STADPRIN
-
+>
 > Leverage our Skills for the benefit of the companies growth
-
+>
 > Provide individual opportunity for all members of STADPRIN
