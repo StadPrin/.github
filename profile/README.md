@@ -1,3 +1,4 @@
-### 2024/07/22
+### 2024/09/01
 
-STADPRIN is under research of a potential technology and idea that could help pioneer humanity forward.
+STADPRIN is researching and developing a predictive model that can enable every member of Society to have the capacity to understand every living, breathing and changing part of our planet.
+
